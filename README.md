@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ismael Soto</h1>
-<h3 align="center">A passionate data & policy professional from the Bay Area, CA</h3>
+# Ismael Soto Jr.
+**Research Data Analyst | Quantitative Policy Research | Applied Data Science**
 
-- 🔭 I’m currently working on **building up my GitHub profile with my work**
+Master of Public Policy (MPP), UC Berkeley Goldman School of Public Policy  
+Graduate Certificate in Applied Data Science, UC Berkeley  
+[LinkedIn](https://www.linkedin.com/in/ismael-soto-jr/)
 
-- 🌱 I’m currently learning **AI, Machine Learning, spatial data**
+## About me
 
-- 👯 I’m looking to collaborate on **any data & public policy projects**
+I'm a research and public policy professional with experience transforming complex datasets into clear, decision-relevant findings. My work combines applied statistics, programming, data documentation, and substantive knowledge of education, criminal justice, and economic inequality.
 
-- 💬 Ask me about **Anything data related or criminal justice, education, racial/ethnic equity policy**
+I previously worked as a **Research Data Analyst at UC Berkeley**, contributing to quantitative research involving school districts, demographic data, and criminal justice. I have also worked on research and policy analysis relating to student loan disparities, and I bring experience coordinating community programs and evaluating operational needs.
 
-- 📫 How to reach me **let's connect on Linkedin**
+I am particularly interested in **research data analysis, policy analysis, applied econometrics, and program evaluation**.
 
-- ⚡ Fun fact **I've played soccer since I started walking & I'm learning to play the guitar**
+## Technical toolkit
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismael-soto-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael-soto-jr" height="30" width="40" /></a>
-</p>
+| Area | Tools and methods |
+| --- | --- |
+| Statistical programming | **Stata, R, Python** |
+| Data processing | pandas, NumPy; cleaning, validation, merging, reshaping, crosswalks |
+| Quantitative research | Descriptive statistics, regression analysis, applied econometrics, data visualization |
+| Visualization | Matplotlib, Seaborn; research charts and tables |
+| Additional tools | Excel; foundational SQL |
+| Research practices | Documentation, reproducible analysis, explaining data limitations |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Selected public work
+
+### [California Homicide Data Analysis (2018–2022)](https://github.com/ismael-soto-jr/California_homicides)
+
+An exploratory analysis of California Department of Justice OpenJustice homicide records. The repository includes Python/Jupyter notebooks for preparing data, examining victim characteristics, and visualizing trends. The work also documents important data limitations and reporting-system changes.
+
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter.
+
+### [Python Programming and Data Cleaning Examples](https://github.com/ismael-soto-jr/python_examples)
+
+Examples of Python data processing, regular expressions, text cleaning, file operations, and object-oriented programming.
+
+**Tools:** Python, pandas, regular expressions, Jupyter.
+
+*Additional quantitative research and reproducible analysis projects are being prepared for publication.*
+
+## Areas of interest
+
+- Education and economic opportunity
+- Criminal justice and public safety
+- Program evaluation and policy implementation
+- Statistical research and evidence-based decision-making
+- Data quality, reproducibility, and research transparency
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ismael-soto-jr/) · [Explore my repositories](https://github.com/ismael-soto-jr?tab=repositories)
