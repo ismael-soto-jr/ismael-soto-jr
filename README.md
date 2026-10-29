@@ -26,11 +26,12 @@ I am particularly interested in **research data analysis, policy analysis, appli
 
 ## Selected public work
 
-### California Homicide Data Analysis (2018–2022) — publication in progress
+### [California Homicide Data Analysis (2018–2022)](https://github.com/ismael-soto-jr/california-homicide-analysis)
 
-A focused Python research portfolio project using California Department of Justice OpenJustice data. The project demonstrates validated data cleaning, county-code crosswalk correction, automated quality checks, and descriptive visualizations. **The replacement repository is undergoing final review and remains private**; a public link will be added when it is released.
+A reproducible Python research project using historical California Department of Justice OpenJustice records. The analysis prepares 10,106 source victim records, corrects a county-code crosswalk that previously multiplied rows, validates transformations with automated tests, and presents three descriptive visualizations of annual counts, reported age groups, and county totals.
 
-**Tools:** Python, pandas, Matplotlib, pytest, GitHub Actions.
+**Tools:** Python, pandas, Matplotlib, pytest, GitHub Actions.  
+**Research practices:** data cleaning, merge validation, documentation, reproducibility, and clear limitations on inference.
 
 ### [Python Programming and Data Cleaning Examples](https://github.com/ismael-soto-jr/python_examples)
 
