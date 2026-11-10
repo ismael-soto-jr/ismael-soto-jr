@@ -33,12 +33,6 @@ A reproducible Python research project using historical California Department of
 **Tools:** Python, pandas, Matplotlib, pytest, GitHub Actions.  
 **Research practices:** data cleaning, merge validation, documentation, reproducibility, and clear limitations on inference.
 
-### [Python Programming and Data Cleaning Examples](https://github.com/ismael-soto-jr/python_examples)
-
-Examples of Python data processing, regular expressions, text cleaning, file operations, and object-oriented programming.
-
-**Tools:** Python, pandas, regular expressions, Jupyter.
-
 *Additional quantitative research and reproducible analysis projects are being prepared for publication.*
 
 ## Areas of interest
